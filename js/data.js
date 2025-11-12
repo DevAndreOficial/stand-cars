@@ -24,13 +24,13 @@ const vehicles = [
     ],
     condition: "Semi-novo",
     location: "Lisboa",
-    createdAt: "2024-01-15",
+    createdAt: "2025-01-15",
   },
   {
     id: "2",
     brand: "Mercedes-Benz",
     model: "Classe A",
-    year: 2024,
+    year: 2025,
     price: 38500,
     mileage: 1200,
     fuelType: "Híbrido",
@@ -50,7 +50,7 @@ const vehicles = [
     ],
     condition: "Novo",
     location: "Porto",
-    createdAt: "2024-02-01",
+    createdAt: "2025-02-01",
   },
   {
     id: "3",
@@ -76,7 +76,7 @@ const vehicles = [
     ],
     condition: "Semi-novo",
     location: "Lisboa",
-    createdAt: "2024-01-20",
+    createdAt: "2025-01-20",
   },
   {
     id: "4",
@@ -101,7 +101,7 @@ const vehicles = [
     ],
     condition: "Usado",
     location: "Braga",
-    createdAt: "2024-01-10",
+    createdAt: "2025-01-10",
   },
   {
     id: "5",
@@ -126,7 +126,7 @@ const vehicles = [
     ],
     condition: "Semi-novo",
     location: "Lisboa",
-    createdAt: "2024-02-05",
+    createdAt: "2025-02-05",
   },
   {
     id: "6",
@@ -151,7 +151,7 @@ const vehicles = [
     ],
     condition: "Semi-novo",
     location: "Coimbra",
-    createdAt: "2024-01-25",
+    createdAt: "2025-01-25",
   },
   {
     id: "7",
@@ -176,7 +176,7 @@ const vehicles = [
     ],
     condition: "Usado",
     location: "Faro",
-    createdAt: "2024-01-05",
+    createdAt: "2025-01-05",
   },
   {
     id: "8",
@@ -201,7 +201,7 @@ const vehicles = [
     ],
     condition: "Semi-novo",
     location: "Lisboa",
-    createdAt: "2024-02-10",
+    createdAt: "2025-02-10",
   },
   {
     id: "9",
@@ -226,7 +226,7 @@ const vehicles = [
     ],
     condition: "Semi-novo",
     location: "Porto",
-    createdAt: "2024-01-30",
+    createdAt: "2025-01-30",
   },
   {
     id: "10",
@@ -252,7 +252,7 @@ const vehicles = [
     ],
     condition: "Semi-novo",
     location: "Lisboa",
-    createdAt: "2024-02-08",
+    createdAt: "2025-02-08",
   },
   {
     id: "11",
@@ -277,7 +277,7 @@ const vehicles = [
     ],
     condition: "Usado",
     location: "Setúbal",
-    createdAt: "2024-01-12",
+    createdAt: "2025-01-12",
   },
   {
     id: "12",
@@ -302,7 +302,7 @@ const vehicles = [
     ],
     condition: "Semi-novo",
     location: "Porto",
-    createdAt: "2024-02-03",
+    createdAt: "2025-02-03",
   },
 ]
 
@@ -317,7 +317,7 @@ const newsArticles = [
     image: "modern-electric-cars-future-automotive-technology.jpg",
     category: "Elétricos",
     author: "João Silva",
-    date: "2024-02-15",
+    date: "2025-02-15",
     readTime: "5 min",
   },
   {
@@ -328,7 +328,7 @@ const newsArticles = [
     image: "hybrid-car-technology-efficiency.jpg",
     category: "Híbridos",
     author: "Maria Santos",
-    date: "2024-02-10",
+    date: "2025-02-10",
     readTime: "4 min",
   },
   {
@@ -339,18 +339,18 @@ const newsArticles = [
     image: "car-maintenance-service-professional.jpg",
     category: "Manutenção",
     author: "Pedro Costa",
-    date: "2024-02-05",
+    date: "2025-02-05",
     readTime: "6 min",
   },
   {
     id: "4",
-    title: "Tendências Automotivas 2024",
+    title: "Tendências Automotivas 2025",
     excerpt: "As principais tendências que vão dominar o mercado automóvel este ano.",
-    content: "2024 promete ser um ano revolucionário para a indústria automóvel...",
-    image: "automotive-trends-innovation-2024.jpg",
+    content: "2025 promete ser um ano revolucionário para a indústria automóvel...",
+    image: "automotive-trends-innovation-2025.jpg",
     category: "Tendências",
     author: "Ana Rodrigues",
-    date: "2024-01-30",
+    date: "2025-01-30",
     readTime: "7 min",
   },
   {
@@ -361,7 +361,7 @@ const newsArticles = [
     image: "family-car-suv-spacious-safe.jpg",
     category: "Guias",
     author: "Carlos Mendes",
-    date: "2024-01-25",
+    date: "2025-01-25",
     readTime: "5 min",
   },
   {
@@ -372,7 +372,7 @@ const newsArticles = [
     image: "car-safety-technology-advanced-systems.jpg",
     category: "Segurança",
     author: "Sofia Alves",
-    date: "2024-01-20",
+    date: "2025-01-20",
     readTime: "6 min",
   },
 ]
